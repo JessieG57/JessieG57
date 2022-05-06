@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JessieG57
 - 👀 I’m interested in working with womxn-led organizations making a positive social impact.
-- 🌱 I’m currently learning Python & IT automation.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Javascript & Python.
+- 💞️ I’m looking for a front end or full-stack developer apprenticeship to continue learning, growing, and contributing
 - 📫 How to reach me ...
 
 <!---
