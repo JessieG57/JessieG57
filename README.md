@@ -2,7 +2,7 @@
 - 👀 I’m interested in working with womxn-led organizations making a positive social impact.
 - 🌱 I’m currently learning Javascript & Python.
 - 💞️ I’m looking for a front end or full-stack developer apprenticeship to continue learning, growing, and contributing
-- 📫 How to reach me ...
+- 📫 How to reach me: jessieg@jessiegellings.com ; https://www.linkedin.com/in/jessiegellingsva/
 
 <!---
 JessieG57/JessieG57 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
